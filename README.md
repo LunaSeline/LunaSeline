@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LunaSeline
+- 👋 Hi, I’m @Hrudya
 - 👀 I’m a cybersecurity enthusiast
 - 🌱 I’m currently pusuing MSc
 <!---
